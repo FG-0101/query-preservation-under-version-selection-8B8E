@@ -1,0 +1,163 @@
+{
+  "rows": [
+    {
+      "signal": "two_tone",
+      "transform": "wav",
+      "features": {
+        "lowlevel.average_loudness": 0.9906840324401855,
+        "lowlevel.dynamic_complexity": 0.0007197380182333291,
+        "rhythm.bpm": 104.78515625,
+        "lowlevel.spectral_centroid.mean": 428.6390075683594
+      },
+      "reported_md5_encoded": "0eaf582be74a3c81f3a45acd11c5401b",
+      "reported_codec": "pcm_s16le",
+      "reported_build": "v2.1_beta5-1438-g8dbdc073",
+      "extractor_version": "music 2.0"
+    },
+    {
+      "signal": "two_tone",
+      "transform": "aiff",
+      "features": {
+        "lowlevel.average_loudness": 0.9906840324401855,
+        "lowlevel.dynamic_complexity": 0.0007197380182333291,
+        "rhythm.bpm": 104.78515625,
+        "lowlevel.spectral_centroid.mean": 428.6390075683594
+      },
+      "reported_md5_encoded": "498e93024465b7999bc17be956d76696",
+      "reported_codec": "pcm_s16be",
+      "reported_build": "v2.1_beta5-1438-g8dbdc073",
+      "extractor_version": "music 2.0"
+    },
+    {
+      "signal": "two_tone",
+      "transform": "aac",
+      "features": {
+        "lowlevel.average_loudness": 0.9877628087997437,
+        "lowlevel.dynamic_complexity": 0.0015933036338537931,
+        "rhythm.bpm": 156.60513305664062,
+        "lowlevel.spectral_centroid.mean": 428.2460632324219
+      },
+      "reported_md5_encoded": "fbc1161fa0e4006bdb02e96844f6ec47",
+      "reported_codec": "aac",
+      "reported_build": "v2.1_beta5-1438-g8dbdc073",
+      "extractor_version": "music 2.0"
+    },
+    {
+      "signal": "amplitude_modulated",
+      "transform": "wav",
+      "features": {
+        "lowlevel.average_loudness": 0.9906840324401855,
+        "lowlevel.dynamic_complexity": 3.708946704864502,
+        "rhythm.bpm": 119.99019622802734,
+        "lowlevel.spectral_centroid.mean": 440.01983642578125
+      },
+      "reported_md5_encoded": "f00ed23c7bbc5c68fa70e9969a0013ee",
+      "reported_codec": "pcm_s16le",
+      "reported_build": "v2.1_beta5-1438-g8dbdc073",
+      "extractor_version": "music 2.0"
+    },
+    {
+      "signal": "amplitude_modulated",
+      "transform": "aiff",
+      "features": {
+        "lowlevel.average_loudness": 0.9906840324401855,
+        "lowlevel.dynamic_complexity": 3.708946704864502,
+        "rhythm.bpm": 119.99019622802734,
+        "lowlevel.spectral_centroid.mean": 440.01983642578125
+      },
+      "reported_md5_encoded": "d5ffd12926f9ba926bbb665efcb37cfa",
+      "reported_codec": "pcm_s16be",
+      "reported_build": "v2.1_beta5-1438-g8dbdc073",
+      "extractor_version": "music 2.0"
+    },
+    {
+      "signal": "amplitude_modulated",
+      "transform": "aac",
+      "features": {
+        "lowlevel.average_loudness": 0.9877620935440063,
+        "lowlevel.dynamic_complexity": 3.7088208198547363,
+        "rhythm.bpm": 119.99019622802734,
+        "lowlevel.spectral_centroid.mean": 439.968017578125
+      },
+      "reported_md5_encoded": "3f687481f3b5cd129e3da0b1022a4e61",
+      "reported_codec": "aac",
+      "reported_build": "v2.1_beta5-1438-g8dbdc073",
+      "extractor_version": "music 2.0"
+    },
+    {
+      "signal": "chirp",
+      "transform": "wav",
+      "features": {
+        "lowlevel.average_loudness": 0.9906836152076721,
+        "lowlevel.dynamic_complexity": 0.6447528004646301,
+        "rhythm.bpm": 172.26560974121094,
+        "lowlevel.spectral_centroid.mean": 901.05419921875
+      },
+      "reported_md5_encoded": "5c49002210f083f65df6dac0d1b964ac",
+      "reported_codec": "pcm_s16le",
+      "reported_build": "v2.1_beta5-1438-g8dbdc073",
+      "extractor_version": "music 2.0"
+    },
+    {
+      "signal": "chirp",
+      "transform": "aiff",
+      "features": {
+        "lowlevel.average_loudness": 0.9906836152076721,
+        "lowlevel.dynamic_complexity": 0.6447528004646301,
+        "rhythm.bpm": 172.26560974121094,
+        "lowlevel.spectral_centroid.mean": 901.05419921875
+      },
+      "reported_md5_encoded": "15b90b9431ab7c041c5a3ca06c6d32ed",
+      "reported_codec": "pcm_s16be",
+      "reported_build": "v2.1_beta5-1438-g8dbdc073",
+      "extractor_version": "music 2.0"
+    },
+    {
+      "signal": "chirp",
+      "transform": "aac",
+      "features": {
+        "lowlevel.average_loudness": 0.9877651929855347,
+        "lowlevel.dynamic_complexity": 0.6448842287063599,
+        "rhythm.bpm": 172.265625,
+        "lowlevel.spectral_centroid.mean": 901.1626586914062
+      },
+      "reported_md5_encoded": "e7b5eed4b318a061f784f6139d1d8139",
+      "reported_codec": "aac",
+      "reported_build": "v2.1_beta5-1438-g8dbdc073",
+      "extractor_version": "music 2.0"
+    }
+  ],
+  "profile": {
+    "analysisSampleRate": 44100,
+    "lowlevelSilentFrames": "keep",
+    "tonalSilentFrames": "keep",
+    "lowlevelStats": [
+      "mean"
+    ],
+    "rhythmStats": [
+      "mean"
+    ],
+    "tonalStats": [
+      "mean"
+    ],
+    "mfccStats": [
+      "mean"
+    ],
+    "gfccStats": [
+      "mean"
+    ],
+    "lowlevelFrameSize": 2048,
+    "lowlevelHopSize": 1024,
+    "lowlevelWindowType": "blackmanharris62",
+    "tonalFrameSize": 4096,
+    "tonalHopSize": 2048,
+    "tonalWindowType": "blackmanharris62",
+    "rhythmMethod": "degara",
+    "chromaprintCompute": false
+  },
+  "software": {
+    "python": "3.14.7",
+    "numpy": "2.5.3",
+    "essentia": "2.1-beta6-dev"
+  }
+}

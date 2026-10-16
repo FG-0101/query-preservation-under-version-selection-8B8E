@@ -1,0 +1,13 @@
+AcousticBrainz feature and metadata values (data/official_sample/,
+data/audio/): CC0.  https://acousticbrainz.org/
+
+Raster panel (data/raster_panel.npz): derived from the included raster source
+archive; see the manuscript's data statement.
+
+numpy 2.5.3 is an installed external dependency and is not vendored.  The
+optional native extractor, which this package does not require, uses Essentia
+2.1b6.dev1438 (AGPLv3, https://essentia.upf.edu/licensing_information.html);
+no extractor binary or model weights are vendored.
+
+No blanket code license was present in the source package; no new license
+grant is inferred over third-party material.

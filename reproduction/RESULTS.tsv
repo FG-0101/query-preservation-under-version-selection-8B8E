@@ -1,0 +1,12 @@
+Paper item	Program	Line	Output	Input
+Table 1 (tab:composition)	code/run_queries.py	77	results/primary/composition.json	data/official_sample/submission_features.npy, submission_metadata.npz
+Table 2 (tab:means)	code/run_queries.py	105	results/primary/aggregate_queries.json	data/official_sample/submission_features.npy, submission_metadata.npz
+Table 3 (tab:bootstrap)	code/run_queries.py	105	results/primary/bootstrap.json	data/official_sample/submission_features.npy, submission_metadata.npz
+Table 4 (tab:decomposition)	code/run_diagnostics.py	107	results/diagnostics/support_decomposition.json	results/primary/aggregate_queries.json
+Table 5 (tab:thresholds)	code/experiment.py	87	results/transfer/version_selection_all_threshold_queries.json	data/audio/, data/raster_panel.npz
+Table 6 (tab:neighbors)	code/run_queries.py	126	results/primary/ranking_queries.json	data/official_sample/submission_features.npy, submission_metadata.npz
+Table 7 (tab:transfer-neighbors)	code/experiment.py	87	results/transfer/version_selection_comparisons.json	data/audio/, data/raster_panel.npz
+Table 8 (tab:strata)	code/run_diagnostics.py	56	results/diagnostics/stratified_ranking.json	results/primary/ranking_queries.json
+Table 9 (tab:matched)	code/run_diagnostics.py	89	results/diagnostics/development_selected_matched_build.json	results/primary/matched_payload_build.json
+Supplement Table A1 (tab:control)	code/controls.py	30	results/control_comparisons.json	data/control_measurements.json
+Policy arrays	code/arrays.py	15	results/policy_arrays.json	results/primary/policy_recordings.npz
